@@ -1,0 +1,15 @@
+{
+  "name": "scrapeig",
+  "version": "1.0.0",
+  "description": "A simple script to find who unfollowed you on Instagram. ",
+  "main": "scrapeIG.js",
+  "scripts": {
+    
+  },
+  "author": "Barani A",
+  "license": "ISC",
+  "dependencies": {
+    "chromedriver": "^2.40.0",
+    "selenium-webdriver": "^4.0.0-alpha.1"
+  }
+}
