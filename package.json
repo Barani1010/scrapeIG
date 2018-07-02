@@ -4,7 +4,7 @@
   "description": "A simple script to find who unfollowed you on Instagram. ",
   "main": "scrapeIG.js",
   "scripts": {
-    
+    "start" : "node scrapeIG.js"
   },
   "author": "Barani A",
   "license": "ISC",
