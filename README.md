@@ -16,7 +16,7 @@ The following will do:
 
     ```sudo apt-get install -y nodejs```
 2. ```cd PATH_TO_CLONE_DIRECTORY```
-2. Open scrape.js file.
+2. Open scrapeIG.js file.
 3. Edit your account/username and passphrase. Save.
 4. Install dependencies. 
     ```npm install```
@@ -27,7 +27,7 @@ The following will do:
 **Windows**
 1. [Downlaod](https://nodejs.org/dist/v10.5.0/node-v10.5.0-x86.msi) node.js latest installer (skip this, if already installed).
 2. ```cd PATH_TO_CLONE_FOLDER```
-2. Open scrape.js file.
+2. Open scrapeIG.js file.
 3. Edit your account/username and passphrase. Save.
 4. Install dependencies. 
     ```npm install```
