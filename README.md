@@ -1,7 +1,7 @@
 # scrapeIG
 A simple script that extracts user Instagram account followers and following. 
 
-# It can.. ? 
+# What it does?
 - Show followers and following list.
 - Display users who have stopped following.
 - Display users who are not being followed by the account. 
