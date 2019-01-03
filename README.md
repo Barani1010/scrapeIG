@@ -16,10 +16,10 @@ The following will do:
 
     ```sudo apt-get install -y nodejs```
 2. ```cd PATH_TO_CLONE_DIRECTORY```
-2. Open scrapeIG.js file.
-3. Edit your account/username and passphrase. Save.
-4. Install dependencies. 
+2. Install dependencies. 
     ```npm install```
+3. Open scrapeIG.js file.
+4. Edit your account/username and passphrase. Save.
 5. Run. 
     ```npm start``` or ```node scrapeIG.js```
 6. Results.txt file will be created. There you have!    
